@@ -1,3 +1,3 @@
 $(document).ready(function() {
-	console.log("%cSource code from HomePro Online", 'font-size:20px; color: red;');
+	console.log("%c \u00a9 HomePro Online 2021-2022", 'font-size:20px; color: red;');
 });
